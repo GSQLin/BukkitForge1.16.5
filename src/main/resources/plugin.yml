@@ -1,0 +1,5 @@
+name: ${rootProject.name}
+main: ${group}
+version: ${version}
+api-version: 1.16
+description: 1.16.5Forge环境下开发的插件
